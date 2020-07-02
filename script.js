@@ -83,3 +83,5 @@ console.log(calcBound().div(6,3));
 // Neste exemplo foi utilizado o higher-order function onde são passadas funções como parâmetros para o contexto this, sendo estes os métodos sum, mult e div.
 
 // Com os exemplos acima pode-se observar como o método bind facilita a execução das atividades ao trabalhar com contextos this em diferentes métodos.
+
+// Texto é exemplos obtidos no artigo: https://tableless.com.br/explorando-metodo-bind-em-javascript/
